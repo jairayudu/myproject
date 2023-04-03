@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="Tables">Tables</string>
+	<string name="app_name">Restaurant-Table-Order-Management </string>
+	<string name="table_activity">Restaurant - Table</string>
+
+</resources>
